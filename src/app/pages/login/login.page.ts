@@ -60,7 +60,7 @@ export class LoginPage {
       return;
     }
 
-    this.router.navigateByUrl('/home');
+    this.router.navigateByUrl('/hola-mundo');
   }
 
   async register() {
